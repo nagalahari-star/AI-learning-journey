@@ -10,52 +10,50 @@ Goals
 
 
 Current Progress 
-#
-GitHub & Kaggle
-# Created GitHub Account
-# Created Kaggle Account
-# Started AI Learning Journey
+- GitHub & Kaggle
+- Created GitHub Account
+- Created Kaggle Account
+- Started AI Learning Journey
 
-Python Topics Completed
+# Python Topics Completed
 
-# print()
+- print()
+- Variables
 
-# Variables
+- Arithmetic Operators (+, -, *, /)
+- Modulus Operator (%)
 
-# Arithmetic Operators (+, -, *, /)
-# Modulus Operator (%)
-
-# BODMAS Basics
-# Remainder Calculations
+- BODMAS Basics
+- Remainder Calculations
 
 Currently Learning
-# Comparison Operators
-# If-Else Statements
-# Learning Log
+- Comparison Operators
+- If-Else Statements
+- Learning Log
 
 Day 1
 ###
-Learned Variables
-Practiced Arithmetic Operations
+- Learned Variables
+- Practiced Arithmetic Operations
 
 Day 2
 ###
-Learned Modulus Operator (%)
-Practiced BODMAS
-Solved Remainder Problems
+- Learned Modulus Operator (%)
+- Practiced BODMAS
+- Solved Remainder Problems
 
 Day 3
 ###
 Learning Comparison Operators
 Preparing for If-Else Statements
-🗯🗯🗯#
-## Future Roadmap
-# Python Fundamentals
-# Data Structures
-# Machine Learning
-# Deep Learning
-# Computer Vision
-# Cancer Detection AI Project
+
+## Future Roadmap🗯🗯
+- Python Fundamentals
+- Data Structures
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Cancer Detection AI Project
 
 Projects 
 #
