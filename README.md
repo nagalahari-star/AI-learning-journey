@@ -1,11 +1,13 @@
 Hi, I'm Naga Lahari.
 I am learning Python, AI, and Software Development.
-Goals>>>
 
-Learn Python
-Learn AI & Machine Learning
-Build AI Projects
-Research Cancer Detection Technology
+Goals>>>
+Goals
+- Learn Python
+- Learn AI & Machine Learning
+- Build AI Projects
+- Research Cancer Detection Technology
+
 
 Current Progress 
 #
@@ -26,10 +28,10 @@ Python Topics Completed
 # BODMAS Basics
 # Remainder Calculations
 
->>😎Currently Learning
-Comparison Operators
-If-Else Statements
-Learning Log
+Currently Learning
+# Comparison Operators
+# If-Else Statements
+# Learning Log
 
 Day 1
 ###
