@@ -17,12 +17,13 @@ GitHub & Kaggle
 Python Topics Completed
 
 # print()
-#Variables
+
+# Variables
 
 # Arithmetic Operators (+, -, *, /)
 # Modulus Operator (%)
 
-# BODMASBasics
+# BODMAS Basics
 # Remainder Calculations
 
 >>😎Currently Learning
@@ -56,4 +57,7 @@ Preparing for If-Else Statements
 
 Projects 
 #
-Projects will be added here as I continue learning.
+Coming Soon:
+# Calculator
+# Even/Odd Checker
+# Voting Eligibility Checker
