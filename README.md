@@ -1,57 +1,58 @@
 Hi, I'm Naga Lahari.
-Goal
+I am learning Python, AI, and Software Development.
+Goals>>>
+
 Learn Python
 Learn AI & Machine Learning
 Build AI Projects
 Research Cancer Detection Technology
-Progress
-June 2026
+
+Current Progress 
+#
 GitHub & Kaggle
-Created GitHub Account
-Created Kaggle Account
-Started AI Learning Journey
-Python Basics Completed
-print()
-Variables
-Arithmetic Operators (+, -, *, /)
-Modulus Operator (%)
-BODMAS Basics
-Remainder Calculations
-Practice Completed
-Basic Output Programs
-Variable Examples
-Arithmetic Calculations
-Modulus (%) Problems
-Current Learning
-Comparison Operators (>, <, ==, !=)
-Preparing to Learn If-Else Statements
-Future Roadmap
-Python Fundamentals
-Data Structures
-Machine Learning
-Deep Learning
-Computer Vision
-Cancer Detection AI Project
-Daily Learning Log
+# Created GitHub Account
+# Created Kaggle Account
+# Started AI Learning Journey
+
+Python Topics Completed
+
+# print()
+#Variables
+
+# Arithmetic Operators (+, -, *, /)
+# Modulus Operator (%)
+
+# BODMASBasics
+# Remainder Calculations
+
+>>😎Currently Learning
+Comparison Operators
+If-Else Statements
+Learning Log
+
 Day 1
-Learned Python Basics
+###
 Learned Variables
 Practiced Arithmetic Operations
+
 Day 2
+###
 Learned Modulus Operator (%)
 Practiced BODMAS
 Solved Remainder Problems
-Next Target
-Comparison Operators
-If-Else Statements
-Mini Python Projects# AI Learning Journey
 
-Hi, I'm Naga Lahari.
+Day 3
+###
+Learning Comparison Operators
+Preparing for If-Else Statements
+🗯🗯🗯#
+## Future Roadmap
+# Python Fundamentals
+# Data Structures
+# Machine Learning
+# Deep Learning
+# Computer Vision
+# Cancer Detection AI Project
 
-I am learning AI, programming, and software development.
-
-Goals:
-- Learn AI Agents
-- Learn Python
-- Build AI projects
-- Work on cancer detection technology in the future
+Projects
+Projects will be added here as I continue learning.
