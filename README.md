@@ -54,5 +54,6 @@ Preparing for If-Else Statements
 # Computer Vision
 # Cancer Detection AI Project
 
-Projects
+Projects 
+#
 Projects will be added here as I continue learning.
